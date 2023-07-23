@@ -1,0 +1,10 @@
+go 1.20
+
+use (
+	./doc_parser
+	./log_demo
+	./rest_client
+	./shell_exec
+	./sqlite_sql
+	./ssh_client
+)

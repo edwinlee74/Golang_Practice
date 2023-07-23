@@ -1,0 +1,2 @@
+[2023/07/23T13:44:20.783] [application] [ERROR] [log_demo.go:27,main] error message text  
+2023/07/23T14:20:28.884 channel=application level=ERROR [file=log_demo.go:29,main] message=error message text data=
